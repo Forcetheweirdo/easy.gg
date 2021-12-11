@@ -15,7 +15,7 @@ if combo > 45 then
 end
 
  game.StarterGui:SetCore("SendNotification", {
-    Title = "drippydogs lock";
+    Title = "easy.gg";
     Text = "Loaded.";
 
 })
@@ -96,7 +96,7 @@ end
 			enabled = true 
 			Plr = getClosestPlayerToCursor()
 			game.StarterGui:SetCore("SendNotification", {
-    Title = "drippydogs lock ";
+    Title = "easy.gg ";
     Text = "Locking onto  named: "..tostring(Plr.Name);
 
 })
